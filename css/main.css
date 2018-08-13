@@ -1,0 +1,14 @@
+body{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.page-header{
+	background-color: #F4A460; 
+	border-radius: 10px;
+	padding: 20px;
+}
+
+#batyrma{
+	margin-top: -35px;
+}
